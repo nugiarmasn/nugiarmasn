@@ -28,37 +28,6 @@
 
 ---
 
-## 🛠️ Yang Lagi Saya Pelajari
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-      <br>HTML5
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-      <br>CSS3
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
----
-
 ## 📊 Statistik GitHub Saya
 
 <div align="center">
@@ -96,20 +65,10 @@
 
 ---
 
-## 💝 Quote Motivasi
+## 🎨 GitHub Profile 3D Contribution
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br>
-
----
-
-## 👀 Jumlah Pengunjung Profil
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nugiarmasn/count.svg" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=nugiarmasn&theme=radical&animation=true" />
 </div>
 
 <br>
