@@ -65,10 +65,10 @@
 
 ---
 
-## 🎯 GitHub Metrics
+## 🏙️ GitHub Skyline
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/nugiarmasn?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta" />
+  <img src="https://github.com/nugiarmasn/nugiarmasn/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <br>
