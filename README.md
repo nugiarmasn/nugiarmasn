@@ -45,26 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nugiarmasn&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-<br>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nugiarmasn&custom_title=Kontribusi%20GitHub%20Saya&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</div>
-
-<br>
-
----
-
 ## 💬 Yuk Connect!
 
 <div align="center">
