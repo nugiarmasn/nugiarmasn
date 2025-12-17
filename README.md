@@ -65,10 +65,10 @@
 
 ---
 
-## 🏙️ GitHub Skyline
+## 🎨 Contribution Calendar
 
 <div align="center">
-  <img src="https://github.com/nugiarmasn/nugiarmasn/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://ghchart.rshah.org/FF00F6/nugiarmasn" alt="GitHub Contribution Chart" />
 </div>
 
 <br>
