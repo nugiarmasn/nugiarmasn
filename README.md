@@ -65,10 +65,10 @@
 
 ---
 
-## 🎨 GitHub Profile 3D Contribution
+## 🎯 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=nugiarmasn&theme=radical&animation=true" />
+  <img src="https://metrics.lecoq.io/nugiarmasn?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta" />
 </div>
 
 <br>
