@@ -1,16 +1,140 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nugiarmasn/nugiarmasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header dengan Animasi Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=nugiarmasn&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Sedang%20Belajar%20Web%20Development%20🚀&descAlignY=60&descSize=20" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hai!+Saya+Pemula+di+Web+Dev+%F0%9F%91%8B;Sedang+Belajar+Web+Development+%F0%9F%8E%A8;Eksplorasi+HTML+CSS+JS+%F0%9F%92%BB;Mari+Belajar+Bareng!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+## 🌟 Tentang Saya
+
+<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="left">
+
+```yaml
+Nama: nugiarmasn
+Status: ADA
+Lokasi: Brebes BOSSS, Indonesia 🇮🇩
+
+Sedang_Belajar: Web Development 🚀
+</div>
+
+<br clear="both">
+
+---
+
+## 🛠️ Yang Lagi Saya Pelajari
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+## 📊 Statistik GitHub Saya
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nugiarmasn&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugiarmasn&layout=compact&hide_border=true&title_color=FF00F6&text_color=00F7FF&bg_color=0d1117" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nugiarmasn&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" />
+</div>
+
+<br>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nugiarmasn&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+<br>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nugiarmasn&custom_title=Kontribusi%20GitHub%20Saya&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+</div>
+
+<br>
+
+---
+
+## 💝 Quote Motivasi
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+---
+
+## 👀 Jumlah Pengunjung Profil
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nugiarmasn/count.svg" />
+</div>
+
+<br>
+
+---
+
+## 💬 Yuk Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nugiarmasn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanrzky21/?hl=en)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nugiarmasnurizky@gmail.com)
+
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
