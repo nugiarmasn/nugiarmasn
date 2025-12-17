@@ -7,28 +7,22 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hai!+Saya+Pemula+di+Web+Dev+%F0%9F%91%8B;Sedang+Belajar+Web+Development+%F0%9F%8E%A8;Eksplorasi+HTML+CSS+JS+%F0%9F%92%BB;Mari+Belajar+Bareng!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hai!+Saya+Pemula+Web+Developer+%F0%9F%91%8B;Sedang+Belajar+Web+Development+%F0%9F%8E%A8;Mari+Belajar+Bareng!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 </div>
 
----
-
 ## 🌟 Tentang Saya
 
 <img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div align="left">
+**Nama:** nugiarmasn  
+**Status:** ADA  
+**Lokasi:** Brebes BOSSS, Indonesia 🇮🇩  
 
-```yaml
-Nama: nugiarmasn
-Status: ADA
-Lokasi: Brebes BOSSS, Indonesia 🇮🇩
-
-Sedang_Belajar: Web Development 🚀
-</div>
+**Sedang Belajar:** Web Development 🚀
 
 <br clear="both">
 
